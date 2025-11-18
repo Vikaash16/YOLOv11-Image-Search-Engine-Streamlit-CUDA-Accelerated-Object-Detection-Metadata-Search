@@ -49,5 +49,4 @@ Search images based on:
 <img width="1919" height="972" alt="image" src="https://github.com/user-attachments/assets/7a722d6c-a176-4eb1-b415-380d6a80350e" />
 
 
-(Add your screenshots here)
 
