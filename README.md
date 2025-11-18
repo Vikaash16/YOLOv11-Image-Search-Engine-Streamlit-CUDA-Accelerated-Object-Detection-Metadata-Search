@@ -41,7 +41,12 @@ Search images based on:
 - Uses **PyTorch CUDA** for fast inference  
 - Works with NVIDIA GPUs (MX, GTX, RTX series)
 
----
+### Technologies Used:
+YOLOv11
+PyTorch 2.5.1 + CUDA 12.4
+Streamlit
+PIL
+Python 3.11
 
 ## Demo
 <img width="1919" height="964" alt="image" src="https://github.com/user-attachments/assets/cff75fec-6949-4179-aead-0686d9cc8823" />
